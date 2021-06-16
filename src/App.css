@@ -1,0 +1,26 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.plusIconButton{
+    background: none !important;
+    border: none !important;
+    cursor: pointer;
+}
+
+
+ ::-webkit-scrollbar-track {
+    -webkit-box-shadow: none !important;
+    background-color: transparent !important;
+  }
+  
+    ::-webkit-scrollbar {
+    width: 6px !important;
+    background-color: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #acacac;
+  }
