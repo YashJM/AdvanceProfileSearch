@@ -120,9 +120,10 @@ const theme = createMuiTheme({
 
 
 var containerStyle = {
+  maxWidth: '700px',
   transitionDuration: '0.3s',
   height: '80%',
-  width: '50%',
+  width: '100%',
   margin: '10%',
   overflowY: 'auto',
   padding: '10px',
