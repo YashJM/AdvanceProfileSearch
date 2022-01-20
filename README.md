@@ -1,5 +1,10 @@
-In the project directory, you can run:
 
+Find the app on: https://profilesearchandfilter.netlify.app/
+
+lightweight filter and search app to allow searching through list of profiles and also add custom tags and search by tags
+
+
+In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
