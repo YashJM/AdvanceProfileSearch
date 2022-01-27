@@ -3,6 +3,12 @@ Find the app on: https://profilesearchandfilter.netlify.app/
 
 lightweight filter and search app to allow searching through list of profiles and also add custom tags and search by tags
 
+## Tech stack
+* ReactJS - frontend 
+* Material UI - components library
+
+* NodeJs - Backend API
+* MongoDB - Database
 
 In the project directory, you can run:
 ### `npm start`
